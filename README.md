@@ -56,7 +56,7 @@ S   // 停止播放
 
 # 谢三大佬带飞
 
-* [wcx](https://github.com/chenxi-wang)
+* [yzl](https://github.com/shinshiner)
 
 * [wzr](https://github.com/wzrain)
 
